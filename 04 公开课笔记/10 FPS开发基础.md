@@ -25,7 +25,7 @@ FPS游戏有哪些重要元素：
 6. `Game Core`：游戏封装的核心功能
 7. `Third Party Library`：游戏所引用的第三方库
 8. `Game System`：游戏内部系统（网络系统、商业系统）
-   ![技术角度的FPS](E:\Unreal Projects\game\UE\04 公开课笔记\Pictures\技术角度的FPS.PNG)
+   ![技术角度的FPS](Pictures/技术角度的FPS.PNG)
 
 # Weapon System
 
@@ -57,13 +57,13 @@ FPS游戏有哪些重要元素：
    5. 根据连发数计算新的后坐力角度
    6. 进行下一次射击
 5. 武器系统框架
-   1. 继承风格设计![武器系统继承风格设计](E:\Unreal Projects\game\UE\04 公开课笔记\Pictures\武器系统继承风格设计.PNG)
+   1. 继承风格设计![武器系统继承风格设计](Pictures/武器系统继承风格设计.PNG)
 
    2. 组合风格设计
 
-      ![武器系统组合风格设计](E:\Unreal Projects\game\UE\04 公开课笔记\Pictures\武器系统组合风格设计.PNG)
+      ![武器系统组合风格设计](Pictures/武器系统组合风格设计.PNG)
 
-   3. 状态机设计![武器系统状态机设计](E:\Unreal Projects\game\UE\04 公开课笔记\Pictures\武器系统状态机设计.PNG)
+   3. 状态机设计![武器系统状态机设计](Pictures/武器系统状态机设计.PNG)
 
 
 
