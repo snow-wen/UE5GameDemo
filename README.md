@@ -1,5 +1,7 @@
   梁家荣的2024腾讯游戏客户端公开课个人学习记录
-- 01 作品：本次游戏demo的视频演示
+- 01 作品：本次游戏demo的视频演示，
+  demo演示B站视频链接：https://www.bilibili.com/video/BV1v1N2e4EPU/?spm_id_from=333.1387.homepage.video_card.click。
 - 02 作品截图：本次游戏demo的截图
 - 03 源码：本次游戏demo的源码
 - 04 公开课笔记：公开课各节课程笔记
+-  游戏demo视频演示，可通过github下载后在（01 作品）文件夹中观看，也可以通过上面提供的B站视频来链接观看。
